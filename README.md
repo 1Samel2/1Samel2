@@ -13,7 +13,7 @@
 <p>📚<b> Atualmente estou estudando na universidade uninter:<br> Python, Java, C#, C, Kotlin, HTML, CSS, javaScript, framework
     Angular.</p>
 
-<p>📚 Estou  estudando o curso do  codeclub  <a href="https://beacons.ai/rodolfomori/: "> Rodolfomori </a>, Eu terminei os modulos HTML, CSS, agora estou indo para o jarvascript,<br> vou estudar todas as tecnologias mencionadas avançado,  javaScript, HTML, CSS, node, react, git, github, react native.</p> </b>
+<p>📚 Estou  estudando o curso do  codeclub  <a href="https://beacons.ai/rodolfomori/: "> Rodolfomori </a>, Eu terminei os modulos HTML, CSS, agora estou indo para o javaScript,<br> vou estudar todas as tecnologias mencionadas avançado,  javaScript, HTML, CSS, node, react, git, github, react native.</p> </b>
 </dvi>
 
 <br>
