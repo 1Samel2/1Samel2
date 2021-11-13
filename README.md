@@ -8,11 +8,13 @@
 <br>
 <br>
 <br>
-<p>📚 Atualmente estou estudando na universidade uninter:<br> Python, Java, C#, C, Kotlin, HTML, CSS, Jarvascript, framework
-    Angular.</p>-
+<b>
+ <div>
+<p>📚<b> Atualmente estou estudando na universidade uninter:<br> Python, Java, C#, C, Kotlin, HTML, CSS, Jarvascript, framework
+    Angular.</p>
 
-<p>📚 Estou  estudando o curso do  codeclub  <a href="https://beacons.ai/rodolfomori/: "> Rodolfomori </a>, Eu terminei os modulos HTML, CSS, agora estou indo para o jarvascript,<br> vou estudar todas as tecnologias mencionadas avançado,  Jarvascript, HTML, CSS, node, react, git, github, react native.</p>
-
+<p>📚 Estou  estudando o curso do  codeclub  <a href="https://beacons.ai/rodolfomori/: "> Rodolfomori </a>, Eu terminei os modulos HTML, CSS, agora estou indo para o jarvascript,<br> vou estudar todas as tecnologias mencionadas avançado,  Jarvascript, HTML, CSS, node, react, git, github, react native.</p> </b>
+</dvi>
 
 <br>
 <br>
