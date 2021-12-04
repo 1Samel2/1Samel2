@@ -10,10 +10,10 @@
 <br>
 <b>
  <div>
-<p>📚<b> Atualmente estou estudando na universidade uninter:<br> Python, Java, C#, C, Kotlin, HTML, CSS, javaScript, framework
+<p>📚<b> I am currently studying at university  uninter :<br> Python, Java, C#, C, Kotlin, HTML, CSS, javaScript, framework
     Angular.</p>
 
-<p>📚 Estou  estudando o curso do  codeclub  <a href="https://beacons.ai/rodolfomori/: "> Rodolfomori </a>, Eu terminei os modulos HTML, CSS, agora estou indo para o javaScript,<br> vou estudar todas as tecnologias mencionadas avançado,  javaScript, HTML, CSS, node, react, git, github, react native.</p> </b>
+<p>📚 I'm studying the codeclub course  <a href="https://beacons.ai/rodolfomori/: "> Rodolfomori </a>, Eu terminei os modulos HTML, CSS, agora estou indo para o javaScript,<br> vou estudar todas as tecnologias mencionadas avançado,  javaScript, HTML, CSS, node, react, git, github, react native.</p> </b>
 </dvi>
 
 <br>
