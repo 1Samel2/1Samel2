@@ -1,5 +1,5 @@
 <br>
-<h1> Olá, Eu sou o Samuel Guedes, tenho 21 anos  </h1>
+<h1>hello i am the Samuel Guedes, I'm 21   </h1>
 <br>
 <br>
 <div>
@@ -10,10 +10,10 @@
 <br>
 <b>
  <div>
-<p>📚<b> I am currently studying at university  uninter :<br> Python, Java, C#, C, Kotlin, HTML, CSS, javaScript, framework
-    Angular.</p>
+<h2>📚<b> I am currently studying at university  uninter :<br> Python, Java, C#, C, Kotlin, HTML, CSS, javaScript, framework
+    Angular.</h2>
 
-<p>📚 I'm studying the codeclub course  <a href="https://beacons.ai/rodolfomori/: "> Rodolfomori </a>, Eu terminei os modulos HTML, CSS, agora estou indo para o javaScript,<br> vou estudar todas as tecnologias mencionadas avançado,  javaScript, HTML, CSS, node, react, git, github, react native.</p> </b>
+<h2>📚 I'm studying the codeclub course  <a href="https://beacons.ai/rodolfomori/: "> Rodolfomori </a>, Eu terminei os modulos HTML, CSS, agora estou indo para o javaScript,<br> vou estudar todas as tecnologias mencionadas avançado,  javaScript, HTML, CSS, node, react, git, github, react native.</p> </h2>
 </dvi>
 
 <br>
