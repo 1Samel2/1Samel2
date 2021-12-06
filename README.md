@@ -67,7 +67,7 @@
     <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://www.instagram.com/iuricode"/>
   </a>
   
-  <a href="www.linkedin.com/in/samuel-santos-guedes-abab91218/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/samuel-santos-guedes-abab91218/" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/iuricode"/>
   </a>
   
