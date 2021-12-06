@@ -23,7 +23,7 @@
 <br>
 <br>
 <h2>📚<b> I am currently studying at university  uninter :<br> Python, Java, C#, C, Kotlin, HTML, CSS, javaScript, framework
-    Angular.</h2>
+ Angular.</h2>
 
 <h2>📚 I'm studying the codeclub course  <a href="https://beacons.ai/rodolfomori/: "> Rodolfomori </a>, I finished the modules  HTML, CSS, now I'm going to the  javaScript,<br> I will study all mentioned advanced technologies,  javaScript, HTML, CSS, node, react, git, github, react native.</p> </h2>
 
@@ -60,10 +60,21 @@
                                                                                                                  
 ##
                                                                                                                  
-   <div>
+   
                                              
-   <a href="https://www.linkedin.com/in/samuel-santos-guedes-abab91218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>      
-  <a href="https://www.instagram.com/samuel.9368?r=nametag" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> </a>
+<p align="left">
+  <a href="www.instagram.com/samuel.9368?r=nametag" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://www.instagram.com/iuricode"/>
+  </a>
+  
+  <a href="www.linkedin.com/in/samuel-santos-guedes-abab91218/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/iuricode"/>
+  </a>
+  
+  <a href="" alt="Discord">
+    <img src="https://img.shields.io/badge/-Discord-1C1C1C?style=for-the-badge&logo=Discord&logoColor=00FFFF&link=https://discord.gg/QevDJqCzaY"/>
+  </a>
+</p>
     
    <br>
    <br>
