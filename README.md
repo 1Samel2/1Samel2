@@ -9,7 +9,7 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img Align="right" alt="Sam-CSS" height="60" width="70"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-    <img Align="right" alt="Sam-Js" height="30" width="40"
+    <img Align="right" alt="Sam-Js" height="28" width="38"
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  </p>
  
