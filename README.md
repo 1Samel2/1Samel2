@@ -10,7 +10,7 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
             <img  alt="Sam-Js" height="28" width="38"
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img  alt="Sam-CSS" height="60" width="70" style="margin-top: -18px;"
+    <img  alt="Sam-CSS" height="60" width="70"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
  </div>
 <p><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="-----------------------------------------------------" /></p> 
@@ -38,7 +38,7 @@
 <br>
 <br>
  <div>
- <img src="https://camo.githubusercontent.com/d36ea8a39e4f6ba5ffe30669fd043e042d1063e4738107fc34174b0897563242/68747470733a2f2f7374617469632e636f6c6c65637475692e636f6d2f73686f74732f333235323338352f6a6f622d6f70656e696e672d6c61726765"  width="250px" Align="right"    alt="gif-programador">
+ <img src="https://camo.githubusercontent.com/d36ea8a39e4f6ba5ffe30669fd043e042d1063e4738107fc34174b0897563242/68747470733a2f2f7374617469632e636f6c6c65637475692e636f6d2f73686f74732f333235323338352f6a6f622d6f70656e696e672d6c61726765"  width="30%" Align="right"    alt="gif-programador">
 </div>
  <br> 
  <br> 
@@ -55,12 +55,8 @@
     <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://www.instagram.com/iuricode"/>
   </a>
   
-  <a href="https://www.linkedin.com/in/samuel-santos-guedes-abab91218/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/samuel-guedes12/" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/iuricode"/>
-  </a>
-  
-  <a href="" alt="Discord">
-    <img src="https://img.shields.io/badge/-Discord-1C1C1C?style=for-the-badge&logo=Discord&logoColor=00FFFF&link=https://discord.gg/QevDJqCzaY"/>
   </a>
 </p>
     
