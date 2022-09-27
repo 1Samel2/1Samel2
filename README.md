@@ -33,6 +33,9 @@
  <img src="https://camo.githubusercontent.com/d36ea8a39e4f6ba5ffe30669fd043e042d1063e4738107fc34174b0897563242/68747470733a2f2f7374617469632e636f6c6c65637475692e636f6d2f73686f74732f333235323338352f6a6f622d6f70656e696e672d6c61726765"  width="20%"  align="right" alt="gif-programador"/>
 <br>
 <br>
+<br>
+<br>
+<br>
 <p>  
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="78%" halt="-----------------------------------------------------" />
 </p>    
@@ -44,8 +47,6 @@
   <a href="https://www.instagram.com/samuel.9368/?r=nametag" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://www.instagram.com/iuricode"/>
   </a>
-  <br>
-  <br>
   <a href="https://www.linkedin.com/in/samuel-guedes12/" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/iuricode"/>
   </a>
