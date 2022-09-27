@@ -36,10 +36,11 @@
 <br>
 <br>
 <br>
-<p style="display: flex; align-items: center;">
+<p style="display: flex;
+    align-items: center;">
 <img src="https://camo.githubusercontent.com/d36ea8a39e4f6ba5ffe30669fd043e042d1063e4738107fc34174b0897563242/68747470733a2f2f7374617469632e636f6c6c65637475692e636f6d2f73686f74732f333235323338352f6a6f622d6f70656e696e672d6c61726765"  width="20%"  align="right" alt="gif-programador"/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="78%" halt="-----------------------------------------------------" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" halt="-----------------------------------------------------" />
 </p>    
 
 
