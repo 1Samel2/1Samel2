@@ -1,31 +1,24 @@
-<p styles="display: inline_block"><br>
-    <img Align="right" alt="Sam-Python" height="30" width="40"
+<h1 style="border: none;">Olá, eu sou o Samuel Guedes, tenho 22 anos
+<div style="display: flex; margin-top: 10px;">
+    <img  alt="Sam-Python" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img Align="right" alt="Sam-React" height="30" width="40"
+    <img  alt="Sam-React" height="30" width="40"
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img Align="right" alt="Sam-HTML" height="30" width="40"
+    <img  alt="Sam-HTML" height="30" width="40"
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img Align="right" alt="Sam-CSS" height="30" width="40"
+    <img  alt="Sam-CSS" height="30" width="40"
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img Align="right" alt="Sam-CSS" height="60" width="70"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-    <img Align="right" alt="Sam-Js" height="28" width="38"
+            <img  alt="Sam-Js" height="28" width="38"
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- </p>
- 
-<h1>hello i am the Samuel Guedes, I'm 21   </h1>
+    <img  alt="Sam-CSS" height="60" width="70" style="margin-top: -18px;"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+ </div>
+<p><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="-----------------------------------------------------" /></p> 
+</h1>
+<p>📚<b> Atualmente estou estudando na universidade uninter : Python, Java, C#, C, Kotlin, HTML, CSS, javaScript, framework
+  Angular.</p>
 
-
-
-<br>
-<br>
-<p>📚<b>  I am currently studying at university  uninter : Python, Java, C#, C, Kotlin, HTML, CSS, javaScript, framework
- Angular. </p>
-
-<p>📚 I'm studying the codeclub course  <a href="https://beacons.ai/rodolfomori/: "> Rodolfomori </a>, I finished the modules  HTML, CSS, now I'm going to the  javaScript,<br> I will study all mentioned advanced technologies,  javaScript, HTML, CSS, node, react, git, github, react native.</p> 
-
-<br>
-<br>
+<p>📚Estou estudando o curso do DevClub <a href="https://beacons.ai/rodolfomori/: "> Rodolfomori</a></p>
 <br>
 <br>
 <br>
@@ -37,10 +30,6 @@
      <img height="148em"
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Samel2&layout=compact&langs_count=7&theme=dracula" />           
 </div>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -61,7 +50,7 @@
                                                                                                                  
    
                                              
-<p align="left">
+<p style="display: flex;">
   <a href="https://www.instagram.com/samuel.9368/?r=nametag" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://www.instagram.com/iuricode"/>
   </a>
@@ -81,10 +70,4 @@
    
    
   
- ![Snake animation](https://github.com/1Samel2/1Samel2/blob/output/github-contribution-grid-snake.svg)
- 
-<div>
-     <img src="https://c.tenor.com/W9_8dfFmyr0AAAAM/pixel-game.gif" width="200px" 
-       Align="left"   
-    alt="gif-programador">                                                                                                                          
-  </div>
+![Snake animation](https://github.com/1Samel2/1Samel2/blob/output/github-contribution-grid-snake.svg)
