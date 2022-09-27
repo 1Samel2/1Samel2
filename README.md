@@ -37,19 +37,13 @@
 <br>
 <br>
 <br>
- <div>
- <img src="https://camo.githubusercontent.com/d36ea8a39e4f6ba5ffe30669fd043e042d1063e4738107fc34174b0897563242/68747470733a2f2f7374617469632e636f6c6c65637475692e636f6d2f73686f74732f333235323338352f6a6f622d6f70656e696e672d6c61726765"  width="30%" Align="right"    alt="gif-programador">
-</div>
- <br> 
- <br> 
- <br>   
- 
- 
-                                                                                                                 
-##
-                                                                                                                 
-   
-                                             
+<div style="display: flex; align-items: center;">
+<p><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" style=" width: 100%;" alt="-----------------------------------------------------" /></p>
+<div>
+
+ <img src="https://camo.githubusercontent.com/d36ea8a39e4f6ba5ffe30669fd043e042d1063e4738107fc34174b0897563242/68747470733a2f2f7374617469632e636f6c6c65637475692e636f6d2f73686f74732f333235323338352f6a6f622d6f70656e696e672d6c61726765"  width="40%"    alt="gif-programador">
+</div>                
+</div>                                         
 <p style="display: flex;">
   <a href="https://www.instagram.com/samuel.9368/?r=nametag" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://www.instagram.com/iuricode"/>
