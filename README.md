@@ -1,4 +1,4 @@
-<h1 style="border-bottom: 0;"><b>Olá, eu sou o Samuel Guedes, tenho 22 anos<b>
+### Olá, eu sou o Samuel Guedes, tenho 22 anos
 <div style="display: flex; margin-top: 10px;">
     <img  alt="Sam-Python" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -14,7 +14,7 @@
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
  </div>
 <p><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="-----------------------------------------------------" /></p> 
-</h1>
+
 <p>📚<b> Atualmente estou estudando na universidade uninter : Python, Java, C#, C, Kotlin, HTML, CSS, javaScript, framework
   Angular.</p>
 
@@ -30,13 +30,6 @@
      <img height="148em"
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Samel2&layout=compact&langs_count=7&theme=dracula" />           
 </div>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
  <img src="https://camo.githubusercontent.com/d36ea8a39e4f6ba5ffe30669fd043e042d1063e4738107fc34174b0897563242/68747470733a2f2f7374617469632e636f6c6c65637475692e636f6d2f73686f74732f333235323338352f6a6f622d6f70656e696e672d6c61726765"  width="20%"  align="right" alt="gif-programador"/>
 <br>
 <br>
