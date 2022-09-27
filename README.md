@@ -30,10 +30,7 @@
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Samel2&layout=compact&langs_count=7&theme=dracula" />           
 </div>
 <br>
-<br>
-<br>
-<br>
-<br>
+
 <br>
 <p style="display: flex;
     align-items: center;">
