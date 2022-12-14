@@ -3,24 +3,13 @@
 <h2 align="center">📇 &ensp; <i>Ｓｏｂｒｅ</i></h2>
 
 <img align="right" src="" width="370px" alt="">
-<table align="center">
-  <tr>
-    <td>
-      <b>
-        <a href="README.md">🇧🇷 Português</a>
-      </b>
-    </td>
-    <td>
-      <a href="readme-en.md">🇺🇸 English</a>
-    </td>
-  </tr>
-</table>
-
 <ul align="left">
 <li>📚<b> Atualmente estou estudando na universidade uninter : Python, Java, C#, C, Kotlin, HTML, CSS, javaScript, framework
   Angular.</p>
-
-<li>📚Estou estudando o curso do DevClub <a href="https://beacons.ai/rodolfomori/: "> Rodolfomori</a></p>
+<li>📚Estou estudando o curso do DevClub <a href="https://beacons.ai/rodolfomori/: "> Rodolfomori.</a></p>
+<li>
+<a href="https://1samel2.github.io/portfolio-uninter/">Portfólio.</a>
+ </li>
 </ul>
 <br>
 
@@ -159,6 +148,18 @@
 </table>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
+<h2 align="center">
+<details open>
+<summary>📈 &ensp; <i>Ａｔｉｖｉｄａｄｅ</i></summary>
+<br>
+<br>
+<img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Samel2&langs_count=8&theme=tokyonight&hide_border=true">
+<div align="right">
+<img height="203px" src="https://github-readme-stats.vercel.app/api?username=1Samel2&show_icons=true&custom_title=1Samel2's%20Github%20Stats&theme=tokyonight&hide_border=true">
+<img height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=1Samel2&theme=tokyonight&hide_border=true">
+</div>
+</details>
+  <br><br>
 <h2 align="center">📩 &ensp; <i>Ｃｏｎｔａｔｏ</i></h2>
 <img align="left" width="185px" src="" alt="">
 <br><br>
@@ -173,32 +174,3 @@
   </a>
 
 </p>
-<br><br><br>
-
-<h2 align="center">🗃️ &ensp; <i>Ｐｒｏｊｅｔｏｓ</i></h2>
-<img align="right" src="./projects-wallpaper.gif" height="496px" alt="projects image">
-<table height="495px">
-  <tr>
-    <td>
-    <a href="https://github.com/Luk4x/iManager" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=iManager&theme=tokyonight&hide_border=true">
-    </a>
-    </td>
-  </tr>
-</table>
-<br>
-
-<h2 align="center">
-<details open>
-<summary>📈 &ensp; <i>Ａｔｉｖｉｄａｄｅ</i></summary>
-<br>
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Luk4x&theme=tokyo-night&hide_border=true">
-<br><br>
-<img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luk4x&langs_count=8&theme=tokyonight&hide_border=true">
-<div align="right">
-<img height="203px" src="https://github-readme-stats.vercel.app/api?username=Luk4x&show_icons=true&custom_title=Luk4x's%20Github%20Stats&theme=tokyonight&hide_border=true">
-<img height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=Luk4x&theme=tokyonight&hide_border=true">
-</div>
-</details>
-
-![Snake animation](https://github.com/1Samel2/1Samel2/blob/output/github-contribution-grid-snake.svg)
