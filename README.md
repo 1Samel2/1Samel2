@@ -1,8 +1,7 @@
-<img align="left" width="100%" alt="gif-pc" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif"/>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br>
+<img align="right" width="100%" alt="gif-pc" src="https://blog.appi9.com/wp-content/uploads/2020/06/1_L_QoAG863l8QvqxpNyBiqw.gif"/>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h2 align="center">📇 &ensp; <i>Ｓｏｂｒｅ</i></h2>
-<br>
+
 <img align="right" src="" width="370px" alt="">
 <table align="center">
   <tr>
@@ -27,7 +26,7 @@
 
 <h2 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h2>
 <br>
-<img align="left" width="350px"  alt="att" src="https://blog.appi9.com/wp-content/uploads/2020/06/1_L_QoAG863l8QvqxpNyBiqw.gif"/>
+<img align="left" width="280px"  alt="att" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif"/>
 <table align="right" height="279px">
   <tr>
     <td align="center">
