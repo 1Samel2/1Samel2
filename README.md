@@ -7,9 +7,6 @@
 <li>📚<b> Atualmente estou estudando na universidade uninter : Python, Java, C#, C, Kotlin, HTML, CSS, javaScript, framework
   Angular.</p>
 <li>📚Estou estudando o curso do DevClub <a href="https://beacons.ai/rodolfomori/: "> Rodolfomori.</a></p>
-<li>
-<a href="https://1samel2.github.io/portfolio-uninter/">Portfólio.</a>
- </li>
 </ul>
 <br>
 
